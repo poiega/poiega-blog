@@ -1,6 +1,6 @@
 ---
 createdAt: 2022-07-28T07:47:27.283Z
-title: Global down across NaweGa APIs
+title: Global down ㅁcross NaweGa APIs
 ---
 
 
@@ -13,7 +13,7 @@ System Log :
 
 ````
 root@localhost$ : coder -mode proxy -config ~/web/config/nawega.conf
-[GET] (private) / - 529```
+[GET] (private) / - 529
 
 ````
 
