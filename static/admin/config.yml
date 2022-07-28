@@ -65,7 +65,7 @@ collections:
           label: 'Project Category',
           name: 'category',
           widget: 'select',
-          default: 'animals',
+          default: 'report',
           options: [{ label: 'report'}],
         }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
