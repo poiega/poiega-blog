@@ -1,6 +1,6 @@
 ---
 createdAt: 2022-07-28T07:47:27.283Z
-title: Global down ㅁcross NaweGa APIs
+title: Global down Across NaweGa APIs
 ---
 
 
